@@ -92,4 +92,4 @@ if daily_rentals_df is not None:
     
 # Footer
 st.markdown("---")
-st.caption("MEPJQE99WX3V syarifah alya alhasni")
+st.caption("MS079D5X0584 syarifah alya alhasni")
